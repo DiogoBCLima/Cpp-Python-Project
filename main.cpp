@@ -1,5 +1,6 @@
-#include <iostream>
+#define PY_SIZE_T_CLEAN
 
+#include <iostream>
 #include </Usuarios/diogo/anaconda3/include/python.h>
 
 using namespace std;
